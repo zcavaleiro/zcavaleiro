@@ -1,4 +1,4 @@
-- https://zcavaleiro.github.io/portfolio-example/
+- https://zcavaleiro.github.io
 
 <!--
 **zcavaleiro/zcavaleiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
