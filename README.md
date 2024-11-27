@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 -->
-<br>
 
 ## Short info:
 
@@ -18,8 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zcavaleiro "AT" protonmail "DOT" com
 - 😄 Pronouns: Cav
 - ⚡ Fun fact: When I was younger 😄, I was an football manager national champion in [Goalunited](https://legends.goalunited.org/)
-
-<br>
 
 ## Some work I've done:
 
